@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fyEo8paMGlEPmQljAJLkZAWjat7Nxdb9ds8j02RNgsM=",
+  "Source": "Shared.Server",
+  "BasePath": "_content/Shared.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
